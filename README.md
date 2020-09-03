@@ -1,1 +1,2 @@
-# social-new
+# README
+# Sección social de prueba.
